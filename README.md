@@ -25,3 +25,5 @@ Requires:
 * Pickit 3
 * PIC18F87J11 Plugin module (PIM)
 * One of the OneWire temperature sensors and/or EEPROM  
+
+C programming Language.
